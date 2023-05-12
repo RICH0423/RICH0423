@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rich Lee.
-- 👀 I’m interested in Cloud Native application developemnt.
+- 👀 I’m interested in Cloud Native application development.
 - 🌱 I’m currently learning K8s, Service Mesh, Microservices etc.
 - 📫 My email: rich04230@gmail.com
 
